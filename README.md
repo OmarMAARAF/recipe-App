@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub version](https://img.shields.io/github/v/release/OmarMAARAF/recipe-App.svg)
+![GitHub version](https://github.com/OmarMAARAF/recipe-App/releases/tag/v.1.0.0)
 <h1>Welcome to our React Recipes app!</h1>
 <p>This app allows you to discover new recipe ideas by using an external API that provides a database of recipes. You can search for recipes based on various criteria (ingredients, dish type, difficulty, etc.) and view the details of each recipe (ingredients, instructions, prep time, etc.).</p>
 <h2>Getting Started</h2>
