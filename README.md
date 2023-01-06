@@ -40,3 +40,7 @@ npm run build
 <p>This will create a production-ready build of the app in the <code>build</code> directory. You can then serve the app using a static file server such as serve or deploy it to a hosting platform like GitHub Pages.</p>
 <h2>Feedback</h2>
 <p>We hope you enjoy working with this app! Please feel free to contact us with any questions or feedback.</p>
+<h2>MIT License</h2>
+<p>
+  This project is licensed under the MIT License - see the <a href="LICENSE_URL">LICENSE</a> file for details.
+</p>
