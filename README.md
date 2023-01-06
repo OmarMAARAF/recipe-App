@@ -16,4 +16,25 @@
   <li>Clone the repository to your local machine using Git. You can do this by opening a terminal window and running the following command:</li>
 </ol>
 <pre>
-git clone https://github.com/[YOUR-USERNAME]
+git clone https://github.com/OmarMAARAF/recipe-App.git
+</pre>
+<ol start="3">
+  <li>Navigate to the project directory and install the dependencies by running the following command:</li>
+</ol>
+<pre>
+npm install
+</pre>
+<ol start="4">
+  <li>Once the dependencies have been installed, you can start the development server by running the following command:</li>
+</ol>
+<pre>
+npm start
+</pre>
+<p>This will start the development server and open the app in your default web browser. You can now make changes to the code and see the updates live in the browser.</p>
+<p>To build the app for production, run the following command:</p>
+<pre>
+npm run build
+</pre>
+<p>This will create a production-ready build of the app in the <code>build</code> directory. You can then serve the app using a static file server such as serve or deploy it to a hosting platform like GitHub Pages.</p>
+<h2>Feedback</h2>
+<p>We hope you enjoy working with this app! Please feel free to contact us with any questions or feedback.</p>
